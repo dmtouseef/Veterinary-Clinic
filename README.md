@@ -10,3 +10,4 @@ The application through which the clients make appointments.
 
 Currently, the video series is in Romanian, in the future, I plan to add English subtitles.
 how are you all
+time to move on
